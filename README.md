@@ -138,11 +138,8 @@ The app must have the following functionalities
 <summary>user crediential</summary>
 
 <br/> 
-    ```text
+   
    username: rahul
    password: rahul@2021
-
-  ```
-</details>
 
 
